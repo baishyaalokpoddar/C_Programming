@@ -1,0 +1,23 @@
+#Alogorithm
+Definition:
+A step-by-step procedure to solve a problem.
+Natural:
+Text-based instruction and logical steps.
+Purpose:
+To describe the logic and sequence of a task.
+Detail level:
+Often detailed with clear rules and logic.
+Components:
+Involves operations, loops and conditions.
+Application:
+Used in programming and algorithmic design.
+Example :
+Write an algorithm in C to find Odd and Even number?
+Step 1:Start
+Step 2:Declared a variable x
+Step 3:Take input from user and store in x
+Step 4:IF x % 2==0 THEN
+         PRINT Even
+       ELSE 
+         PRINT Odd
+Step 5:End
