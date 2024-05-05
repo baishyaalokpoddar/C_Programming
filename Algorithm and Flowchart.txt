@@ -21,3 +21,6 @@ Step 4:IF x % 2==0 THEN
        ELSE 
          PRINT Odd
 Step 5:End
+
+#Flowchart
+Definition
